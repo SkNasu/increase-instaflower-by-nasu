@@ -1,7 +1,7 @@
 #!/bin/bash
 # insfollow v2.0
-# recoded by: Termux Professor
-# github.com/termuxprofessor/insfollow
+# recoded by: Nasim Devloping 
+# https://github.com/SkNasu/increase-instaflower-by-nasu/find/master
 # If you use any part from this code, give me the credits, please, read the License
 
 clear
@@ -263,27 +263,4 @@ printf " \e[1;31m[\e[0m\e[1;77m02\e[0m\e[1;31m]\e[0m\e[1;93m Exit\e[0m\n"
 printf "\n"
 
 
-read -p $' \e[1;31m[\e[0m\e[1;77m::\e[0m\e[1;31m]\e[0m\e[1;77m Choose an option: \e[0m' option
-
-if [[ $option -eq 1 ]]; then
-login_user
-increase_followers
-
-elif [[ $option -eq 2 ]]; then
-printf "\n"
-printf "  \e[1;91mBye Bye !!\e[0m\n"
-printf "\n"
-exit
-
-else
-
-printf " \e[1;93m[!] Invalid Option!\e[0m\n"
-sleep 2
-menu
-
-fi
-}
-
-
-banner
-menu
+read -p $' \e[1;31m[\e[0m\e[1;77m::\e[0m\e[1;
