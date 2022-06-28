@@ -28,17 +28,17 @@ Best Tool For Increase Instagram Follower.
 
 `$ bash insfollow.sh`
 
-## • Watch Video Tutorial From Below
-* https://youtu.be/SAkFZJRaq0U
----
+
+
+
 
 <p align="center">
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/c/TermuxProfessorYT">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
+  <a href="https://youtube.com/channel/UCc13GZrMQzzbdrIcByIGj5w">
+<img src="https://media.discordapp.net/attachments/991267642713313351/991309244714459166/Picsart_22-06-24_14-12-09-412.jpg" width="40" height="40">
   </a>
-  <a href="https://www.instagram.com/termuxprofessor/">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
+  <a href="Alex_nasim44">
+    <img src="https://media.discordapp.net/attachments/991267642713313351/991311032922423326/Screenshot_2022-06-28-17-25-47-804_com.instagram.android.jpg" width="40" height="40">
 </p>
